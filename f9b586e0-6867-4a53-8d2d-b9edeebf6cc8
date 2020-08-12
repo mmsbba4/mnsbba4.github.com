@@ -1,0 +1,121 @@
+{
+   "status":"SUCCESS",
+   "message":"OK",
+   "data":{
+      "hotspotList":[
+         {
+            "id":40,
+            "ar_indoor_id":12,
+            "name":"Tháp Hoà Phong",
+            "description":"Tháp Hòa Phong nằm ở bờ Đông Nam Hồ Hoàn Kiếm, đường Đinh Tiên Hoàng, quận Hoàn Kiếm, Hà Nội, là một di tích cổ còn sót lại của Chùa Báo Ân, một ngôi chùa lớn xây năm 1842 ở Hà Nội.",
+            "latitude":21.026283264160158,
+            "longitude":105.85333251953125,
+            "created_at":"2020-08-12T07:21:00.000000Z",
+            "updated_at":"2020-08-12T07:21:00.000000Z",
+            "images":[
+
+            ]
+         },
+         {
+            "id":41,
+            "ar_indoor_id":12,
+            "name":"Cầu Thê Húc - Đền Ngọc Sơn",
+            "description":"Đền Ngọc Sơn là một ngôi đền thờ nằm trên đảo Ngọc của hồ Hoàn Kiếm ở Hà Nội, Việt Nam. Đây cũng là một di tích quốc gia đặc biệt của Việt Nam được xếp hạng đợt 4",
+            "latitude":21.03071403503418,
+            "longitude":105.85304260253906,
+            "created_at":"2020-08-12T07:22:19.000000Z",
+            "updated_at":"2020-08-12T07:22:19.000000Z",
+            "images":[
+
+            ]
+         },
+         {
+            "id":42,
+            "ar_indoor_id":12,
+            "name":"Đền bà Kiệu",
+            "description":"Đền Bà Kiệu, tên chữ là Thiên Tiên điện, là một ngôi đền ở ven phía đông hồ Gươm, Hà Nội, xế cửa đền Ngọc Sơn. Đền thờ ba vị nữ thần: Liễu Hạnh Công chúa, Quỳnh Hoa và Quế Nương.",
+            "latitude":21.031063079833986,
+            "longitude":105.85340118408203,
+            "created_at":"2020-08-12T07:23:36.000000Z",
+            "updated_at":"2020-08-12T07:23:36.000000Z",
+            "images":[
+
+            ]
+         },
+         {
+            "id":43,
+            "ar_indoor_id":12,
+            "name":"Vườn Hoa Lý Thái Tổ",
+            "description":"Vườn hoa Chí Linh là tên gọi khác của Vườn hoa Lý Thái Tổ, hiện là nơi đặt tượng đài vua Lý Thái Tổ (974 – 1028) -người có công khai lập kinh thành Thăng Long. Vườn hoa nằm trên đường Đinh Tiên Hoàng, quận Hoàn Kiếm, tại trung tâm thủ đô Hà Nội, Việt Nam.",
+            "latitude":21.027584075927736,
+            "longitude":105.85355377197266,
+            "created_at":"2020-08-12T07:24:43.000000Z",
+            "updated_at":"2020-08-12T07:24:43.000000Z",
+            "images":[
+
+            ]
+         }
+      ],
+      "routeList":[
+         {
+            "latitude":21.026498794555665,
+            "longitude":105.85336303710938
+         },
+         {
+            "latitude":21.025741577148439,
+            "longitude":105.85321807861328
+         },
+         {
+            "latitude":21.02703857421875,
+            "longitude":105.85345458984375
+         },
+         {
+            "latitude":21.02786636352539,
+            "longitude":105.85358428955078
+         },
+         {
+            "latitude":21.028745651245118,
+            "longitude":105.85370635986328
+         },
+         {
+            "latitude":21.029205322265626,
+            "longitude":105.85353088378906
+         },
+         {
+            "latitude":21.029495239257814,
+            "longitude":105.85340881347656
+         },
+         {
+            "latitude":21.029926300048829,
+            "longitude":105.85333251953125
+         },
+         {
+            "latitude":21.030122756958009,
+            "longitude":105.85343933105469
+         },
+         {
+            "latitude":21.030466079711915,
+            "longitude":105.85334014892578
+         },
+         {
+            "latitude":21.030704498291017,
+            "longitude":105.85308074951172
+         },
+         {
+            "latitude":21.030689239501954,
+            "longitude":105.85359191894531
+         },
+         {
+            "latitude":21.030284881591798,
+            "longitude":105.85376739501953
+         },
+         {
+            "latitude":21.029834747314454,
+            "longitude":105.853759765625
+         }
+      ],
+      "matrix":"0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, n\n1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, n\n1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, n\n0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, n\n0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, n\n0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, n\n0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, n\n0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, n\n0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, n\n0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, n\n0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, n\n0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, n\n0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, n\n0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, n",
+      "latitude":21.03070068359375,
+      "longitude":105.85358428955078
+   }
+}

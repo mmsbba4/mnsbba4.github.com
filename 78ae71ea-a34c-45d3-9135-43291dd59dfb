@@ -8,8 +8,8 @@
             "ar_indoor_id":12,
             "name":"Tháp Hoà Phong",
             "description":"Tháp Hòa Phong nằm ở bờ Đông Nam Hồ Hoàn Kiếm, đường Đinh Tiên Hoàng, quận Hoàn Kiếm, Hà Nội, là một di tích cổ còn sót lại của Chùa Báo Ân, một ngôi chùa lớn xây năm 1842 ở Hà Nội.",
-            "latitude":21.026283264160158,
-            "longitude":105.85333251953125,
+            "latitude":21.026309,
+            "longitude":105.853332,
             "created_at":"2020-08-12T07:21:00.000000Z",
             "updated_at":"2020-08-12T07:21:00.000000Z",
             "images":[
